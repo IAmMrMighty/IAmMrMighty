@@ -1,4 +1,4 @@
-[![Skillset](https://skillicons.dev/icons?i=php,html,css,mysql,python,dotnet)]
+[![Skillset](https://skillicons.dev/icons?i=php,html,css,mysql,python,dotnet)](https://skillicons.dev)
 
 <!--
 **IAmMrMighty/IAmMrMighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
